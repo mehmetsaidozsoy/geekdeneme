@@ -1,4 +1,4 @@
 # geekdeneme
 
 
-merge deneme ikinci
+merge deneme ikinci deneme sonrası
